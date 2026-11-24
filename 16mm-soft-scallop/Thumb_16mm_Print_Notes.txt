@@ -1,0 +1,40 @@
+THUMB 16 — FDM prototype, units mm
+Print two identical copies for left and right sticks.
+
+DESIGN
+16 mm maximum pad diameter, 11 mm stem diameter, 15.2 mm body height.
+Shallow 0.8 mm bowl, six smoothly scalloped edges, six broad radial ribs.
+Ribs peak at 0.4 mm relief with approximately 1.2 mm width at half height.
+Smooth central contact region. Sloping underside and rounded rim.
+Installed height depends on shaft engagement, NOT body height alone.
+
+UNCONFIRMED MOUNT — READ BEFORE PRINTING
+Retains the previous assumed M4 insert interface, NOT a measurement of your hardware.
+Intended insert specification from the previous design: ruthex RX-M4x8.1.
+Pocket: 5.6 mm diameter; 9.2 mm total depth from base; 0.4 mm entry chamfer.
+Shaft-tip relief: 4.4 mm diameter, from z=9.2 to 11.8 mm.
+The STL contains a smooth heat-set pocket, NOT a printed M4 thread.
+Do not substitute a different insert just because its internal thread is M4.
+Verify the insert maker's pilot diameter, external diameter and length.
+Print the supplied coupon in the same material/settings and test your insert there.
+If it does not fit securely, stop and provide insert measurements for revision.
+The coupon reproduces the pocket and blind roof, not the thumb pad.
+
+PRINT
+PETG suggested; 0.4 mm nozzle, 0.12–0.16 mm layers, 5 walls, 100% infill.
+Flat stem base on bed, pad upward. No external supports intended.
+Inspect the internal blind roof/4.4 mm bridge in slicer; tune bridging as needed.
+Avoid supports inside the blind pocket, where removal is difficult.
+Place seam away from the main thumb-contact region; remove sharp burrs gently.
+Install heat-set insert from the underside, square and flush, using controlled heat
+per its manufacturer. Never install it while the stick is on the transmitter.
+Allow it to cool completely; reject cracked, distorted or loose parts.
+
+BEFORE USE
+Confirm shaft thread independently. Do not force the assembly or bottom out the shaft.
+Check adequate thread engagement and secure attachment using your transmitter's
+appropriate retention method. Confirm full travel in every direction with no contact
+against the gimbal surround, switches or case. Test comfort and retention on the bench
+with the aircraft powered off before flying. No physical print or load tests performed.
+The uploaded thumb photo could not be decoded in this session; sizing follows the
+agreed 16 mm concept rather than a newly verified anatomical measurement.
